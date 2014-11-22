@@ -1,6 +1,6 @@
 var stringConvert = {
   hyphen2camel: require('./hyphen2camel'),
-  camel2hypen : require('./camel2hypen')
+  camel2hyphen : require('./camel2hyphen')
 };
 
 module.exports = stringConvert;

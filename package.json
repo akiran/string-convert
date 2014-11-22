@@ -1,6 +1,6 @@
 {
   "name": "string-convert",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "String convertions",
   "main": "index.js",
   "scripts": {
