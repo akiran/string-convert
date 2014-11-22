@@ -1,0 +1,15 @@
+{
+  "name": "string-convert",
+  "version": "0.1.0",
+  "description": "String convertions",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test -w"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.0.1",
+    "should": "^4.3.0"
+  }
+}
